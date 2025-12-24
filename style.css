@@ -776,6 +776,10 @@ nav {
 }
 @media (max-width: 600px) {
     .carousel iframe, .video-modal iframe { height: 300px; }
+    .carousel-arrow{
+        background: none;
+        font-size: 12px;
+    }
 }
 
 /* SERVICE CARDS (Like the reference) */
